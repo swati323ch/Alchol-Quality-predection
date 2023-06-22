@@ -17,3 +17,4 @@ The dataset used in this project contains various physicochemical properties of 
 - Alcohol
 The target variable is the "Quality" rating, which represents the quality of the wine on a scale from 3 to 9 and would also classify wine quality as good or not
 #Visualisation
+<img width=750 src ="heatmap.png">
